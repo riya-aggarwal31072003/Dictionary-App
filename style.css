@@ -1,0 +1,32 @@
+body {
+background-color: rgb(235, 223, 197);
+}
+.footer {
+    background: transparent;
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+    
+}
+
+.footer .social-links a {
+    color: blueviolet;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.footer .social-links a:hover {
+    color: white;
+}
+.footer p a{
+color: black;
+text-decoration: none;
+
+}
